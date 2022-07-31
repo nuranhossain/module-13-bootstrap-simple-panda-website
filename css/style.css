@@ -9,3 +9,17 @@
 .slider-bg{
     background-color: #fceae8;
 }
+
+.subscribe{
+    height: 300px;
+    background-color: #fceae8;
+
+}
+
+.inp input {
+    max-width: 550px;
+}
+
+.product {
+    background-color: #F4F4F4;
+}
